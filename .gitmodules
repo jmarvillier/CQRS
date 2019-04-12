@@ -1,0 +1,4 @@
+[submodule "Cqrs_Learning_Customer"]
+	path = Cqrs_Learning_Customer
+	url = https://github.com/jmarvillier/Cqrs_Learning_Customer.git
+	branch = master
